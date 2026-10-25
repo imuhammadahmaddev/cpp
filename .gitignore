@@ -1,0 +1,15 @@
+# Executables
+*.exe
+*.out
+
+# Object files
+*.o
+*.obj
+
+# Debug files
+*.pdb
+*.ilk
+
+# IDE and Editor files
+.vscode/
+.vs/
